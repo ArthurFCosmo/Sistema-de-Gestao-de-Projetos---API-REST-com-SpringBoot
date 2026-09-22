@@ -2,7 +2,7 @@
 
 API REST desenvolvida em **JAVA + Spring Boot** para gerenciamento completo de projetos e colaboradores: Criação de projetos, cadastro de usuários, vinculação de usuários a projetos, etc.
 
-> Projeto pessoal desenvolvido do zero, com foco em boas práticas de arquitetura backend.
+> Projeto pessoal desenvolvido do zero, com foco em boas práticas de desenvolvimento backend.
 
 ---
 
