@@ -4,6 +4,8 @@ API REST desenvolvida em **JAVA + Spring Boot** para gerenciamento completo de p
 
 > Projeto pessoal desenvolvido do zero, com foco em boas práticas de desenvolvimento backend.
 
+**Não foram utilizadas ferramentas de inteligência artificial na codificação desse projeto.**
+
 ---
 
 ## 🚀 Tecnologias
